@@ -10,7 +10,7 @@
 
 ## Overview
 
-The program will automatically read data from CONSUMING_TOPIC. You are able to see logs of consumed data. When you want you can send an HTTP POST request to /groupUsersByMinutes route (http://localhost:8081/groupUsersByMinutes) and a number of unique users per minute will send to RESULT_TOPIC. You can also use other API methods (check API documentation).
+The program will automatically read data from CONSUMING_TOPIC. You are able to see logs of consumed data. When you want you can send an HTTP POST request to /groupUsersByMinutes route (http://localhost:8081/groupUsersByMinutes) and a number of unique users per minute will send to RESULT_TOPIC. You can also use other API methods (check API documentation). You can find test data here: https://tda-public.s3.eu-central-1.amazonaws.com/hire-challenge/stream.jsonl.gz.
 
 ## Commands
 
